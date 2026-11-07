@@ -1,0 +1,38 @@
+{
+  "slug": "nightstand",
+  "region": "us",
+  "params": {
+    "width": 460,
+    "height": 600,
+    "depth": 420
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 3120,
+        "usdz": 8024
+      },
+      "sizeMeters": [
+        0.46,
+        0.6,
+        0.42
+      ]
+    },
+    "white": {
+      "glb": "white.glb",
+      "usdz": "white.usdz",
+      "bytes": {
+        "glb": 3120,
+        "usdz": 8024
+      },
+      "sizeMeters": [
+        0.46,
+        0.6,
+        0.42
+      ]
+    }
+  }
+}

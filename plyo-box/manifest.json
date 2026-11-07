@@ -1,0 +1,25 @@
+{
+  "slug": "plyo-box",
+  "region": "us",
+  "params": {
+    "height": 610,
+    "width": 760,
+    "depth": 510
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 3488,
+        "usdz": 10653
+      },
+      "sizeMeters": [
+        0.76,
+        0.61,
+        0.51
+      ]
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "slug": "curved-treadmill",
+  "region": "us",
+  "params": {
+    "deckLength": 1600,
+    "beltWidth": 450,
+    "handleHeight": 1000
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 7400,
+        "usdz": 26711
+      },
+      "sizeMeters": [
+        1.6,
+        1,
+        0.61
+      ]
+    },
+    "oiled": {
+      "glb": "oiled.glb",
+      "usdz": "oiled.usdz",
+      "bytes": {
+        "glb": 7400,
+        "usdz": 26658
+      },
+      "sizeMeters": [
+        1.6,
+        1,
+        0.61
+      ]
+    }
+  }
+}

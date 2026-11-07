@@ -1,0 +1,37 @@
+{
+  "slug": "pet-bowl-stand",
+  "region": "us",
+  "params": {
+    "height": 250,
+    "width": 600
+  },
+  "placement": "floor",
+  "variants": {
+    "oiled": {
+      "glb": "oiled.glb",
+      "usdz": "oiled.usdz",
+      "bytes": {
+        "glb": 2848,
+        "usdz": 6549
+      },
+      "sizeMeters": [
+        0.6,
+        0.25,
+        0.28
+      ]
+    },
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 2848,
+        "usdz": 6564
+      },
+      "sizeMeters": [
+        0.6,
+        0.25,
+        0.28
+      ]
+    }
+  }
+}

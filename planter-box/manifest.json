@@ -1,0 +1,38 @@
+{
+  "slug": "planter-box",
+  "region": "us",
+  "params": {
+    "length": 900,
+    "width": 400,
+    "courses": 3
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 4424,
+        "usdz": 15337
+      },
+      "sizeMeters": [
+        0.9,
+        0.458,
+        0.4
+      ]
+    },
+    "oiled": {
+      "glb": "oiled.glb",
+      "usdz": "oiled.usdz",
+      "bytes": {
+        "glb": 4420,
+        "usdz": 15302
+      },
+      "sizeMeters": [
+        0.9,
+        0.458,
+        0.4
+      ]
+    }
+  }
+}

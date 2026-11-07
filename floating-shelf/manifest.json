@@ -1,0 +1,38 @@
+{
+  "slug": "floating-shelf",
+  "region": "us",
+  "params": {
+    "length": 900,
+    "depth": 200,
+    "height": 70
+  },
+  "placement": "wall",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 2600,
+        "usdz": 6092
+      },
+      "sizeMeters": [
+        0.9,
+        0.07,
+        0.2
+      ]
+    },
+    "white": {
+      "glb": "white.glb",
+      "usdz": "white.usdz",
+      "bytes": {
+        "glb": 2600,
+        "usdz": 6092
+      },
+      "sizeMeters": [
+        0.9,
+        0.07,
+        0.2
+      ]
+    }
+  }
+}

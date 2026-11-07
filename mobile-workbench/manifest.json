@@ -1,0 +1,38 @@
+{
+  "slug": "mobile-workbench",
+  "region": "us",
+  "params": {
+    "length": 1200,
+    "depth": 600,
+    "height": 900
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 3072,
+        "usdz": 8649
+      },
+      "sizeMeters": [
+        1.2,
+        0.805,
+        0.6
+      ]
+    },
+    "oiled": {
+      "glb": "oiled.glb",
+      "usdz": "oiled.usdz",
+      "bytes": {
+        "glb": 3072,
+        "usdz": 8631
+      },
+      "sizeMeters": [
+        1.2,
+        0.805,
+        0.6
+      ]
+    }
+  }
+}

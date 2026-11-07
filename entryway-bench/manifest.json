@@ -1,0 +1,39 @@
+{
+  "slug": "entryway-bench",
+  "region": "us",
+  "params": {
+    "length": 1000,
+    "height": 460,
+    "depth": 350,
+    "cubbies": 3
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 2416,
+        "usdz": 5013
+      },
+      "sizeMeters": [
+        1,
+        0.46,
+        0.35
+      ]
+    },
+    "white": {
+      "glb": "white.glb",
+      "usdz": "white.usdz",
+      "bytes": {
+        "glb": 2416,
+        "usdz": 5013
+      },
+      "sizeMeters": [
+        1,
+        0.46,
+        0.35
+      ]
+    }
+  }
+}

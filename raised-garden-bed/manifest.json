@@ -1,0 +1,38 @@
+{
+  "slug": "raised-garden-bed",
+  "region": "us",
+  "params": {
+    "length": 1800,
+    "width": 900,
+    "courses": 2
+  },
+  "placement": "floor",
+  "variants": {
+    "natural": {
+      "glb": "natural.glb",
+      "usdz": "natural.usdz",
+      "bytes": {
+        "glb": 3128,
+        "usdz": 8801
+      },
+      "sizeMeters": [
+        1.8,
+        0.28,
+        0.9
+      ]
+    },
+    "oiled": {
+      "glb": "oiled.glb",
+      "usdz": "oiled.usdz",
+      "bytes": {
+        "glb": 3128,
+        "usdz": 8781
+      },
+      "sizeMeters": [
+        1.8,
+        0.28,
+        0.9
+      ]
+    }
+  }
+}
